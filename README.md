@@ -1,5 +1,5 @@
 # DomainDrivenDesign-Demo
-The source code of the clean coding course in ASP.NET Core
+The Source Code of the Clean Coding in ASP.NET Core Course
 
 ## Features
 * Clean Architecture
